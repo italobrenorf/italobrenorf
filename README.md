@@ -1,7 +1,9 @@
 <!-- Banner animado de boas-vindas -->
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Italo!;Desenvolvedor+em+formação+e+apaixonado+por+ciência%2C+história+e+RPGs!)](https://git.io/typing-svg)</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Ítalo!;Desenvolvedor+em+formação+e+apaixonado+por+ciência,+história+matemática+e+RPGs!" alt="Typing SVG" />
+</h1>
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="270" />
+<img align="right" height="250" src="https://media.tenor.com/o4NvZP_BFegAAAAd/campfire-pixel.gif"/>
 
 ## 👨‍💻 Sobre mim
 Sou estudante de Informática para Internet no IF Baiano e desenvolvedor em formação. Já participei de projetos como:
@@ -53,3 +55,4 @@ Sou curioso por natureza e estou sempre buscando aprender mais sobre:
 ---
 
 ![Snake animation](https://github.com/italobrenorf/italobrenorf/blob/output/github-contribution-grid-snake.svg)
+  
