@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="center">
-Desenvolvedor em formação e apaixonado por ciência, história e RPGs!
+Desenvolvedor em formação, apaixonado por ciência, história, RPGs e matemática em todas as suas formas. Fascinado pelos desafios que os números, padrões e raciocínio lógico trazem, busco aprender e aplicar esses conhecimentos para criar soluções criativas e eficazes.
 </h1>
 
 <img align="right" height="250" src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
