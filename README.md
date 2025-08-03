@@ -1,5 +1,5 @@
 <!-- Banner animado de boas-vindas -->
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Ycrowb!;Desenvolvedor+em+formação+e+apaixonado+por+ciência%2C+história+e+RPGs!)](https://git.io/typing-svg)</h1>
+<h1 align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Olá%2C+eu+sou+Italo!;Desenvolvedor+em+formação+e+apaixonado+por+ciência%2C+história+e+RPGs!)](https://git.io/typing-svg)</h1>
 
 <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="270" />
 
@@ -34,12 +34,12 @@ Sou curioso por natureza e estou sempre buscando aprender mais sobre:
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=italobrenorf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italobrenorf&layout=compact&langs_count=6&theme=tokyonight"/>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=italobrenorf&bg_color=0d1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true" />
   <br>
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=italobrenorf&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -52,4 +52,4 @@ Sou curioso por natureza e estou sempre buscando aprender mais sobre:
 
 ---
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/italobrenorf/italobrenorf/blob/output/github-contribution-grid-snake.svg)
