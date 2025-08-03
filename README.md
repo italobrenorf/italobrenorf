@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá,eu sou Ítalo Breno!
+  Olá, eu sou Ítalo Breno!
 </h1>
 
 <h2 align="center">
