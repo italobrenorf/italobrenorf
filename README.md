@@ -1,8 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Ítalo+Breno!;Desenvolvedor+em+formação+e+apaixonado+por+ciência,+história+e+RPGs!" alt="Typing SVG" />
+  Olá,eu sou Ítalo Breno!
 </h1>
 
-<img align="right" height="250" src="https://media.tenor.com/o4NvZP_BFegAAAAd/campfire-pixel.gif" />
+<h1 align="center">
+Desenvolvedor em formação e apaixonado por ciência, história e RPGs!
+</h1>
+
+<img align="right" height="250" src="[https://media.tenor.com/o4NvZP_BFegAAAAd/campfire-pixel.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3h2bHlnaDd2a3BwNnhrb2w1bjlsNW40ODVsbDgwa3o5cTQ4cmgwZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pVGsAWjzvXcZW4ZBTE/giphy.gif)" />
 
 ## 👨‍💻 Sobre mim
 
