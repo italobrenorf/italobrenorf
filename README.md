@@ -6,7 +6,8 @@
 Desenvolvedor em formação e apaixonado por ciência, história e RPGs!
 </h1>
 
-<img align="right" height="250" src="https://media.tenor.com/o4NvZP_BFegAAAAd/campfire-pixel.gif">
+<img align="right" height="250" src="https://media3.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" />
+
 
 
 ## 👨‍💻 Sobre mim
