@@ -62,4 +62,4 @@ Sou apaixonado por aprender e sempre busco evoluir em:
 
 ---
 
-![Snake animation](https://github.com/italobrenorf/italobrenorf/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/italobrenorf/italobrenorf/output/snake.svg" alt="Snake animation" />
